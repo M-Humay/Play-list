@@ -1,3 +1,4 @@
+
 # Simple Music Player with Playlist
 This project is a basic music player web application built with JavaScript, CSS, and HTML. It allows users to play, pause, skip to the next or previous song, and shuffle songs from a predefined playlist. The user interface includes essential controls for playing audio, displaying song information, and visualizing progress.
 
@@ -7,7 +8,10 @@ Play/Pause Music: Toggle between playing and pausing the current song. Next/Prev
 # Technologies Used
 JavaScript : Handles the logic for playing music, switching between songs, updating the UI, etc. HTML5: Structure and elements of the music player. CSS3: Styling the UI to make it visually appealing.
 ## Preview :
-![](https://github.com/M-Humay/Play-list/blob/main/playlist%20gif.mp4)
+https://github.com/user-attachments/assets/5839d097-b6ad-42b9-896d-6a91d95f8605
+
+
+
 
 
 
