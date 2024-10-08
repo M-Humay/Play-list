@@ -8,7 +8,8 @@ Play/Pause Music: Toggle between playing and pausing the current song. Next/Prev
 # Technologies Used
 JavaScript : Handles the logic for playing music, switching between songs, updating the UI, etc. HTML5: Structure and elements of the music player. CSS3: Styling the UI to make it visually appealing.
 ## Preview :
-https://github.com/user-attachments/assets/5839d097-b6ad-42b9-896d-6a91d95f8605
+
+![playlistmpo4-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/716e64e5-81af-4059-8794-19a7ba40e746)
 
 
 
